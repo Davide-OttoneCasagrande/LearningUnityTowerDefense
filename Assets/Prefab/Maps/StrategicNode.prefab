@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6806554559328270694}
   - component: {fileID: 1407510699876595807}
   - component: {fileID: 4672736003209866583}
+  - component: {fileID: -4224915373333454013}
   m_Layer: 7
   m_Name: StrategicNode
   m_TagString: Untagged
@@ -105,3 +106,17 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-4224915373333454013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6909468030505534157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea21a3cdd3fb8e0479f2906ebb0a3d84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hovercolor: {r: 0.44313726, g: 0.5686275, b: 0.83137256, a: 1}
+  positionOffset: {x: 0, y: 0, z: 0}
